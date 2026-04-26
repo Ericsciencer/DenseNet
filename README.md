@@ -3,6 +3,7 @@
 [中文简介](#简介) | [English](#Introduction)
 
 ### 结果 | Result
+<img width="2480" height="1914" alt="densenet_training_curve" src="https://github.com/user-attachments/assets/ffa72dec-3ec4-4e50-9495-865d669e3f09" />
 
 
 ---
